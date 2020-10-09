@@ -12,4 +12,4 @@ Here are the links for the big data files:
 
 [Source test word](https://drive.google.com/file/d/1sKFylfzQDGeq7euZLvj5MEKLTrM7osIt/view?usp=sharing)
 
-[Pre-trained word embeddings](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.vec.gz)
+[FastText English Pre-trained word embeddings](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.vec.gz)
