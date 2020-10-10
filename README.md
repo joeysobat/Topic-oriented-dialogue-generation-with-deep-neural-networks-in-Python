@@ -10,7 +10,7 @@ Here are the links for the big data files:
 
 [Target test emotion](https://drive.google.com/file/d/1gowALVEUtlwHWVufUlHxe2BBk1dmv0TX/view?usp=sharing)
 
-[Source test word](https://drive.google.com/file/d/1LROJ2pd8pxg3lw41FZQCHdj7inIHO41X/view?usp=sharing)
+[Source train word](https://drive.google.com/file/d/1LROJ2pd8pxg3lw41FZQCHdj7inIHO41X/view?usp=sharing)
 
 [Source test word](https://drive.google.com/file/d/1sKFylfzQDGeq7euZLvj5MEKLTrM7osIt/view?usp=sharing)
 
