@@ -4,6 +4,8 @@ Dialogue systems are some of the most wide-spread models in terms of human-machi
 
 Here are the links for the big data files:
 
+[Chat emotion](https://drive.google.com/file/d/1tOjE_Z0qc8WLTNzQ8zy2bb86ovaRtqvM/view?usp=sharing)
+
 [Target train emotion](https://drive.google.com/file/d/1h1Tua_ljyG3XGnDxpe6eQHoFl-QD51aw/view?usp=sharing)
 
 [Target test emotion](https://drive.google.com/file/d/1gowALVEUtlwHWVufUlHxe2BBk1dmv0TX/view?usp=sharing)
